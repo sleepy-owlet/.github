@@ -2,4 +2,4 @@
 
 just cute right?
 
-![header](../sleepy_owlet.png)
+![header](./sleepy_owlet.png)
